@@ -40,3 +40,5 @@ Thumbs.db
 ####################
 
 privado/
+logs/*
+!logs/[Pp]ublic.txt
